@@ -5,6 +5,9 @@ Python: Creating a web service
 
 * Added authentication_classes and permission_classes to ModelViewSet (see api_views.py).
 * Implemented permissions.py.
+* Implemented refresh token.
+
+![img_22.png](img_22.png)
 
 ## update 2022.06.15: 
 ### Implemented Django Cleanup
