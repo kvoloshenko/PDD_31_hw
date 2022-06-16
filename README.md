@@ -2,7 +2,9 @@
 Python: Creating a web service
 
 ## update 2022.06.17
-Added authentication_classes and permission_classes to ModelViewSet (see api_views.py)
+
+* Added authentication_classes and permission_classes to ModelViewSet (see api_views.py).
+* Implemented permissions.py.
 
 ## update 2022.06.15: 
 ### Implemented Django Cleanup
