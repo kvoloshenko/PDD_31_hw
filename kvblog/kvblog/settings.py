@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'usersapp',
 #    'debug_toolbar'
     'rest_framework',
+    'rest_framework.authtoken',
     # django-cleanup должен быть самым последним
     'django_cleanup.apps.CleanupConfig'
 ]
