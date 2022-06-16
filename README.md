@@ -1,6 +1,7 @@
 # PDD_31_hw
 Python: Creating a web service
 
+## update 2022.06.17
 
 ## update 2022.06.15: 
 ### Implemented Django Cleanup
